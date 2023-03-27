@@ -1,0 +1,2 @@
+terminals: ["yarn install && yarn dev"]
+tabs: ["src/app/app.component.html", "src/app/app.component.ts"]
